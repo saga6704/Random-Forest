@@ -1,3 +1,2 @@
 # MedicalHealthInsurance
-
-https://random-forestt.streamlit.app/
+https://random-forest-x7as5wuneeijx5wsclbhps.streamlit.app/
